@@ -1,5 +1,5 @@
 ```diff
-@@ Free Version
+@@ Free Version @@
 
 + Aim Options
   - Custom Aimbot
