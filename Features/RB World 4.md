@@ -32,5 +32,7 @@
    - Perfect Aimbot
    - Shot Feedback
    - Touch Extender
++ Guard Options
+   - Auto Block
 + All Free Version Features
 ```
