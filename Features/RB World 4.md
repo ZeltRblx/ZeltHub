@@ -2,5 +2,5 @@
 @@ Free Version @@
 
 + Aim Options
-  - Custom Aimbot
+  ! Custom Aimbot
 ```
