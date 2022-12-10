@@ -24,3 +24,13 @@
    - FPS Boost
 + Dribble Macros
 ```
+
+```diff
+@@ Premium Version @@
+
++ Main Options
+   - Perfect Aimbot
+   - Shot Feedback
+   - Touch Extender
++ All Free Version Features
+```
