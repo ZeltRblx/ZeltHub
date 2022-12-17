@@ -4,7 +4,7 @@
 
 Discord Server:
 ```
-https://discord.gg/Sbpa8BhUqH
+https://discord.gg/YeEJgdp5VA
 ```
 
 # Script
