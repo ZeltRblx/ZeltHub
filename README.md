@@ -1,6 +1,7 @@
 # Credits
    
 - Zelt#2710 | Owner
+- My honest reaction#6696 | Admin & Helper
 
 Discord Server:
 ```
