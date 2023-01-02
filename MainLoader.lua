@@ -1,6 +1,6 @@
 --[[
   
-  This script has been obfuscated with Hyperion V2
+  This script has been obfuscated with Zelt's Obfuscator V2
           _ _   _       _           _     
          | | | ( )     | |         | |    
   _______| | |_|/ ___  | |__  _   _| |__  
